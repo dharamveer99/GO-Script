@@ -1,0 +1,7 @@
+# GO-Script
+
+git clone https://github.com/Chirag-Copart/Go-Script.git
+cd Go-Script
+bash go.sh
+source /root/.zshrc
+go --version
